@@ -1,0 +1,15 @@
+//= require boilerplate
+//= require normalize
+//= require_self
+//= require responsive
+//= require helpers
+//= require print
+
+@import "compass";
+
+// variables
+$text-color: #999;
+$nav-bg-color: #222;
+
+html {}
+

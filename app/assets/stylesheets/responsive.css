@@ -1,0 +1,8 @@
+/* Small */
+@media (max-width: 480px) {}
+
+/* Medium */
+@media (min-width: 768px) {}
+
+/* Large */
+@media (min-width: 1140px) {}
